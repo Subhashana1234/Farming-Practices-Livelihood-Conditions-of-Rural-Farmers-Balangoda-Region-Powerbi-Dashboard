@@ -2,31 +2,39 @@ The main idea of this project was to understand how climate change and biodivers
 Using a structured survey, I collected real data from farmers in Samanalawatta, Budunwela, and Landuyaya villages. The survey focused on topics such as climate awareness, rainfall and temperature changes, pest and disease patterns, water availability, farming practices, biodiversity loss, and forest cover.
 The objective was to convert farmers’ real-life experiences into data-driven insights that can support sustainable agriculture and environmental decision-making.
 This project combines social research, environmental studies, and data analytics to highlight local-level climate impacts.
+
 Technical Approach
+
 1️⃣ Data Collection
 •	Designed a structured questionnaire on climate change and biodiversity
 •	Collected primary data from farmers through surveys
 •	Converted responses into a digital dataset
+
 2️⃣ Data Cleaning & Preparation
 •	Removed incomplete and duplicate records
 •	Standardized variable names and formats
 •	Handled missing and inconsistent values
+
 3️⃣ Data Processing & Modeling
 •	Organized data in Excel and Power BI
 •	Created basic relationships and calculated fields
 •	Grouped responses by awareness, impact, and practices
+
 4️⃣ Data Analysis
 •	Analyzed response patterns and distributions
 •	Compared awareness with climate impacts
 •	Identified trends in biodiversity and farming practices
+
 5️⃣ Visualization & Dashboard Design
 •	Built interactive Power BI dashboards
 •	Used charts, KPIs, and filters
 •	Created visual summaries for key insights
+
 6️⃣ Insight Generation & Reporting
 •	Interpreted results and generated conclusions
 •	Summarized findings in simple visual reports
 •	Connected insights with real farming challenges
+
 📋 Survey Questions & Variables
 1.	knowledge_about_the_term_"Climate_Change"
 👉 Climate Change Awareness
@@ -65,10 +73,4 @@ Technical Approach
 
 🧠 Key Technical Skills
 ✅ Survey Analysis • Data Cleaning • Power BI • Excel • Data Modeling • KPI Design • Data Storytelling
-________________________________________
-📈 Project Impact
-•	Improved understanding of farmers’ climate awareness
-•	Highlighted key environmental risks
-•	Identified gaps in sustainable practices
-•	Strengthened practical data analytics skills
 
